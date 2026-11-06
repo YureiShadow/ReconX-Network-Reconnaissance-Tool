@@ -1,6 +1,7 @@
- <div align="center">
+ <p align="center">
+  <img src="ReconX_%20Samurai%20Nightfall.png" alt="ReconX Banner" width="100%" />
+</p>
 
-<img src="./a_dark_cyberpunk_neon_glow_github_profile_readme.png" width="100%" alt="ReconX Cyberpunk Banner">
 
 # ⚡ ReconX
 
