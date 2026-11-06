@@ -16,8 +16,6 @@
 
  <div align="center">
 
-<img src="./a_dark_cyberpunk_neon_glow_github_profile_readme.png" width="100%" alt="ReconX Cyberpunk Banner">
-
 # ⚡ ReconX
 
 ### Network Reconnaissance Toolkit
