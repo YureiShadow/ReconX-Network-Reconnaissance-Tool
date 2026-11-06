@@ -14,73 +14,121 @@
 
 ---
 
-## 🥷 About Me
+🥷 About Me
 
-Hello! I'm **YureiShadow**.
+Hello! I'm YureiShadow.
 
 I'm an aspiring cybersecurity professional interested in penetration testing, vulnerability assessment, and offensive security.
 
 I enjoy exploring security concepts, building practical tools, and learning through hands-on labs.
 
-- 🔐 Interested in Penetration Testing
-- 🛠️ Building cybersecurity projects
-- 🎯 Learning Advanced Penetration Testing
-- 🧪 Practicing in authorized security labs
+🔐 Interested in Penetration Testing
 
-## ⚔️ Areas of Interest
+🛠️ Building cybersecurity projects
 
-- Penetration Testing
-- Vulnerability Assessment
-- Network Reconnaissance
-- Offensive Security
-- Red Teaming
+🎯 Learning Advanced Penetration Testing
 
-## 💻 Skills & Tools
+🧪 Practicing in authorized security labs
 
-**Programming & Scripting**
-- Python
+⚔️ Areas of Interest
 
-**Security Tools**
-- Nmap
-- Kali Linux
-- Wireshark
-- Burp Suite (Basic)
+Penetration Testing
 
-**Other Areas**
-- Networking
-- Linux
-- Vulnerability Analysis
+Vulnerability Assessment
 
-## 🚀 Featured Projects
+Network Reconnaissance
 
-### 🔹 ReconX — Network Reconnaissance Toolkit
+Offensive Security
+
+Red Teaming
+
+💻 Skills & Tools
+
+Programming & Scripting
+
+Python
+
+Security Tools
+
+Nmap
+
+Kali Linux
+
+Other Areas
+
+Networking
+
+Linux
+
+Vulnerability Analysis
+
+🚀 Featured Projects
+
+🔹 ReconX — Network Reconnaissance Toolkit
 
 A Python-based network reconnaissance toolkit designed to perform network scanning and vulnerability identification.
 
-**Features:**
-- Quick Port Scanning
-- Full Port Scanning
-- Aggressive Scanning
-- OS Detection
-- Service & Version Detection
-- Vulnerability & CVE Detection
-- HTML Scan Reports
+Features:
 
-*More cybersecurity projects coming soon.*
+Quick Port Scanning
 
-## 📚 Currently Learning
+Full Port Scanning
 
-- Advanced Penetration Testing
-- Network Security Assessment
-- Vulnerability Analysis
-- Offensive Security Techniques
+Aggressive Scanning
 
----
+OS Detection
+
+Service & Version Detection
+
+Vulnerability & CVE Detection
+
+HTML Scan Reports
+
+Repository: ReconX — Network Reconnaissance Toolkit
+
+⚙️ Running ReconX
+
+1. Install Nmap
+
+sudo apt update
+sudo apt install nmap -y
+
+2. Verify Nmap Installation
+
+nmap --version
+
+3. Clone the Repository
+
+git clone https://github.com/YureiShadow/ReconX-Network-Reconnaissance-Tool.git
+
+4. Navigate to the Project Directory
+
+cd ReconX-Network-Reconnaissance-Tool
+
+5. Run ReconX
+
+python3 src/main.py
+
+For scan features requiring elevated privileges:
+
+sudo python3 src/main.py
+
+More cybersecurity projects coming soon.
+
+📚 Currently Learning
+
+Advanced Penetration Testing
+
+Network Security Assessment
+
+Vulnerability Analysis
+
+Offensive Security Techniques
 
 <p align="center">
   <b>学び続ける • Keep Learning • Keep Building</b>
 </p>
 
 <p align="center">
-  <i>The journey of a thousand miles begins with a single step.</i>
+  <i>「The journey of a thousand miles begins with a single step」</i>
 </p>
