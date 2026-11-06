@@ -120,19 +120,27 @@ ReconX supports HTML report generation to make scan results easier to review and
 
 ## 📸 Project Screenshots
 
-### Main Menu
-![ReconX Main Menu](screenshots/main-menu.png)
+### 1. Main Menu
+![ReconX Main Menu](main-menu.png)
 
-### Port Scan
-![Port Scan - Part 1](screenshots/port-scan-1.png)
-![Port Scan - Part 2](screenshots/port-scan-2.png)
+### 2. Port Scanning
 
-### Aggressive Scan
-![Aggressive Scan - Part 1](screenshots/aggressive-scan-1.png)
-![Aggressive Scan - Part 2](screenshots/aggressive-scan-2.png)
+**Port Scan – Part 1**
+![ReconX Port Scan Part 1](port-scan-1.png)
 
-### HTML Report
-![ReconX HTML Report](screenshots/html-report.png)
+**Port Scan – Part 2**
+![ReconX Port Scan Part 2](port-scan-2.png)
+
+### 3. Aggressive Scanning
+
+**Aggressive Scan – Part 1**
+![ReconX Aggressive Scan Part 1](aggressive-scan-1.png)
+
+**Aggressive Scan – Part 2**
+![ReconX Aggressive Scan Part 2](aggressive-scan-2.png)
+
+### 4. HTML Scan Report
+![ReconX HTML Scan Report](html-report.png)
 
 ## 🎯 Project Goals
 
