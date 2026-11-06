@@ -118,6 +118,22 @@ CVE matches are indicative findings and should be manually verified. Version-bas
 
 ReconX supports HTML report generation to make scan results easier to review and document.
 
+## 📸 Project Screenshots
+
+### Main Menu
+![ReconX Main Menu](screenshots/main-menu.png)
+
+### Port Scan
+![Port Scan - Part 1](screenshots/port-scan-1.png)
+![Port Scan - Part 2](screenshots/port-scan-2.png)
+
+### Aggressive Scan
+![Aggressive Scan - Part 1](screenshots/aggressive-scan-1.png)
+![Aggressive Scan - Part 2](screenshots/aggressive-scan-2.png)
+
+### HTML Report
+![ReconX HTML Report](screenshots/html-report.png)
+
 ## 🎯 Project Goals
 
 - Simplify network reconnaissance.
